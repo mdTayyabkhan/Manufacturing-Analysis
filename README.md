@@ -47,4 +47,5 @@ This dashboard provides a comprehensive analysis of the manufacturing process, f
 **Md. Tayyab Khan**
 📍 *Data Analyst | Skilled in Excel, SQL,Tableau and Power BI*
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammadtayyabkhan)
+🔗 [Email](mailto:mdtayyabkhan02@gmail.com.com)
 
